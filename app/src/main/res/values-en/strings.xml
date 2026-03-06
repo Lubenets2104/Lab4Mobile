@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Izhevsk</string>
+    <string name="menu">Menu</string>
+    <string name="back">Back</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="place_image">Place image</string>
+    <string name="place_not_found">Place not found</string>
+    <string name="dark_theme">Dark theme</string>
+
+    <string name="category_coffee_shops">Coffee Shops</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_shopping">Shopping Malls</string>
+
+    <string name="about_title">About</string>
+    <string name="about_text">A guide to Izhevsk — the capital of the Udmurt Republic. Here you will find the best coffee shops, restaurants, parks, landmarks, and shopping malls. The app will help you plan a walk and discover Izhevsk from a new perspective.</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_dark_theme">Dark theme</string>
+    <string name="address_label">Address</string>
+
+    <!-- Coffee Shops -->
+    <string name="coffee_1_name">Coffee House</string>
+    <string name="coffee_1_short">A cozy coffee shop with a wide selection of signature drinks and desserts.</string>
+    <string name="coffee_1_full">Coffee House is one of the most popular coffee shops in Izhevsk, located in the very center of the city. Here you can enjoy freshly brewed coffee from beans of different countries, try signature drinks from baristas, and choose a dessert from the in-house bakery. The cozy interior and fast Wi-Fi make it an ideal place for work or meeting friends.</string>
+    <string name="coffee_1_address">Pushkinskaya St., 222</string>
+
+    <string name="coffee_2_name">Shokoladnitsa</string>
+    <string name="coffee_2_short">Coffee chain famous for its hot chocolate and all-day breakfasts.</string>
+    <string name="coffee_2_full">Shokoladnitsa is a well-known coffee chain loved by Izhevsk residents for its consistent quality and varied menu. The signature hot chocolate, prepared according to a proprietary recipe, has become the establishment\'s hallmark. They serve breakfast all day long, as well as salads, sandwiches, and signature desserts. The spacious hall and comfortable sofas create a welcoming atmosphere.</string>
+    <string name="coffee_2_address">Sovetskaya St., 13</string>
+
+    <string name="coffee_3_name">Traveler\'s Coffee</string>
+    <string name="coffee_3_short">Coffee from in-house roasted beans with a travel-themed atmosphere.</string>
+    <string name="coffee_3_full">Traveler\'s Coffee is a coffee shop for connoisseurs of quality coffee. The beans are roasted in-house, ensuring freshness and rich flavor in every cup. The interior is designed in a travel theme — maps, vintage suitcases, and photos of faraway lands. The menu includes classic espresso, filter coffee, signature cocktails, and light snacks.</string>
+    <string name="coffee_3_address">Karl Marx St., 206</string>
+
+    <string name="coffee_4_name">Surf Coffee</string>
+    <string name="coffee_4_short">Trendy surf-themed coffee shop with alternative brewing methods.</string>
+    <string name="coffee_4_full">Surf Coffee is a youthful coffee shop combining coffee culture with the spirit of surfing. Alternative brewing methods are featured: pour-over, AeroPress, Chemex. Baristas will gladly tell you about each variety and help select a drink to your taste. The bright interior with surfboards and neon signs creates a positive atmosphere.</string>
+    <string name="coffee_4_address">Lenin St., 30</string>
+
+    <string name="coffee_5_name">Coffeemania</string>
+    <string name="coffee_5_short">Premium coffee shop with an in-house bakery and city center views.</string>
+    <string name="coffee_5_full">Coffeemania is a place for true gourmets. The coffee shop offers over 30 types of espresso-based drinks, signature teas, and smoothies. The in-house bakery bakes fresh croissants, cakes, and pastries every morning. Panoramic windows offer views of Izhevsk\'s central streets, and the elegant interior invites long conversations.</string>
+    <string name="coffee_5_address">Udmurtskaya St., 300</string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_1_name">Pozim</string>
+    <string name="restaurant_1_short">Udmurt cuisine restaurant with dishes from ancient recipes.</string>
+    <string name="restaurant_1_full">Pozim is a restaurant dedicated to Udmurt national cuisine. Here you can try perepechi — the hallmark of Udmurt cooking, tabani with zyret, shanezhki, and other traditional dishes prepared from ancient recipes. The interior is designed in an ethnic style with Udmurt ornament elements. Live music on weekends creates a festive atmosphere.</string>
+    <string name="restaurant_1_address">Maxim Gorky St., 162</string>
+
+    <string name="restaurant_2_name">Italia</string>
+    <string name="restaurant_2_short">Italian cuisine with handmade pasta and a wood-fired pizza oven.</string>
+    <string name="restaurant_2_full">Restaurant Italia offers authentic Italian cuisine in the heart of Izhevsk. Pasta is made by hand every day, and pizza is baked in a real wood-fired oven at 400 degrees. The menu features classic risotto, house-made tiramisu, and an extensive wine list with Italian wines. The warm Mediterranean interior transports guests to the Italian coast.</string>
+    <string name="restaurant_2_address">Pushkinskaya St., 195</string>
+
+    <string name="restaurant_3_name">Colosseum</string>
+    <string name="restaurant_3_short">European cuisine restaurant with a banquet hall and summer terrace.</string>
+    <string name="restaurant_3_full">Colosseum is one of the oldest restaurants in Izhevsk, offering high-quality European cuisine. The chef creates a seasonal menu using the best local ingredients. The restaurant has a large banquet hall for events, cozy booths for romantic dinners, and a spacious summer terrace. The evening program includes live jazz music.</string>
+    <string name="restaurant_3_address">Sovetskaya St., 38</string>
+
+    <string name="restaurant_4_name">Perepechi No.1</string>
+    <string name="restaurant_4_short">Fast food cafe with the best perepechi in the city.</string>
+    <string name="restaurant_4_full">Perepechi No.1 is the place to go for authentic Udmurt perepechi. These open-topped pastries with various fillings — meat, mushrooms, cabbage, egg and onion — are baked in a traditional oven and served hot. The cafe operates in a quick-service format: you can take away or eat at the high tables. A perfect option for a quick and tasty lunch.</string>
+    <string name="restaurant_4_address">Karl Marx St., 244</string>
+
+    <string name="restaurant_5_name">Season</string>
+    <string name="restaurant_5_short">Modern restaurant with author\'s cuisine and a seasonal menu.</string>
+    <string name="restaurant_5_full">Season is a gastronomic restaurant where the menu is updated each season according to the availability of fresh local ingredients. The chef combines classical techniques with modern approaches, creating dishes that are works of art. The minimalist Scandinavian interior, open kitchen, and attentive service make each visit a special occasion.</string>
+    <string name="restaurant_5_address">Lenin St., 50</string>
+
+    <!-- Parks -->
+    <string name="park_1_name">Kirov Park</string>
+    <string name="park_1_short">The main city park with rides, ponds, and recreation areas.</string>
+    <string name="park_1_full">Kirov Park is the main park of Izhevsk, covering over 100 hectares. It has everything for family recreation: rides, a Ferris wheel, a boat station on the pond, playgrounds, and sports areas. In summer, cafes and ice cream stands operate; in winter, an ice rink is set up and ski trails are laid. The central promenade is a favorite spot for city residents.</string>
+    <string name="park_1_address">Kirov St., 8</string>
+
+    <string name="park_2_name">Izhevsk Pond Embankment</string>
+    <string name="park_2_short">Landscaped embankment with bike paths and pond views.</string>
+    <string name="park_2_full">The Izhevsk Pond Embankment is one of the most beautiful places in the city. The walking zone stretches for several kilometers. It is equipped with bike paths, benches, viewing platforms, and art installations. In the evening, the embankment is beautifully illuminated. In summer, you can rent a bicycle or scooter; in winter, take a walk along the cleared paths enjoying the winter landscape.</string>
+    <string name="park_2_address">Militsionnaya St., 4</string>
+
+    <string name="park_3_name">Cosmonauts Park</string>
+    <string name="park_3_short">A quiet park with a space theme and cozy walking trails.</string>
+    <string name="park_3_full">Cosmonauts Park is a green oasis in a residential area of Izhevsk. The park is named after cosmonauts and decorated with themed sculptures and art objects. Dense alleys provide pleasant shade on hot days. There are playgrounds, workout areas, and quiet corners for reading. The park is especially beautiful in autumn when the foliage turns golden and crimson.</string>
+    <string name="park_3_address">Molodyozhnaya St., 30</string>
+
+    <string name="park_4_name">Summer Garden</string>
+    <string name="park_4_short">A historic garden in the city center with centuries-old trees and a fountain.</string>
+    <string name="park_4_full">Summer Garden is one of the oldest parks in Izhevsk, founded in the 19th century. Century-old lindens and oaks create a dense canopy, pleasant to shelter under from the summer heat. In the center of the garden is a fountain surrounded by benches. City events, exhibitions, and fairs are often held here. The garden is within walking distance of the main downtown attractions.</string>
+    <string name="park_4_address">Sovetskaya St., 1</string>
+
+    <string name="park_5_name">Birch Grove</string>
+    <string name="park_5_short">Forest park with birch alleys, a barbecue area, and sports grounds.</string>
+    <string name="park_5_full">Birch Grove is an extensive forest park on the outskirts of Izhevsk, ideal for active outdoor recreation. White-trunked birches line the well-maintained paths. Barbecue areas, volleyball and basketball courts, and running paths are available. In winter, the park becomes a popular spot for cross-country skiing. Clean air and tranquility are the best remedy for city bustle.</string>
+    <string name="park_5_address">40 Let Pobedy St., 60</string>
+
+    <!-- Landmarks -->
+    <string name="landmark_1_name">Friendship of Peoples Monument</string>
+    <string name="landmark_1_short">The main city symbol, 46 meters tall, on the central square.</string>
+    <string name="landmark_1_full">The Friendship of Peoples Monument is one of the most recognizable symbols of Izhevsk. The majestic 46-meter stele is located on the city\'s central square and symbolizes the unity of the peoples of Udmurtia. At the base of the monument are bas-reliefs telling the history of the region. The square around the monument is a popular photo spot and starting point for walks around the city center.</string>
+    <string name="landmark_1_address">Central Square</string>
+
+    <string name="landmark_2_name">Izhevsk Crocodile Monument</string>
+    <string name="landmark_2_short">A fun crocodile sculpture — the unofficial city mascot.</string>
+    <string name="landmark_2_full">The Izhevsk Crocodile Monument is one of the most unusual attractions in the city. According to legend, in the 18th century, a crocodile escaped from a collection of exotic animals at the weapons factory. The bronze sculpture depicts a life-size crocodile and has become the unofficial mascot of Izhevsk. Tourists and residents always take photos with it and rub its nose for good luck.</string>
+    <string name="landmark_2_address">Sovetskaya St., 6</string>
+
+    <string name="landmark_3_name">St. Michael\'s Cathedral</string>
+    <string name="landmark_3_short">A majestic Orthodox cathedral, rebuilt in 2007.</string>
+    <string name="landmark_3_full">St. Michael\'s Cathedral is the main Orthodox church of Izhevsk, located on a hill in the city center. Originally built in 1907, the cathedral was destroyed during the Soviet era and rebuilt in 2007. The majestic building with golden domes is visible from many points in the city. Inside are beautiful frescoes and an iconostasis. The observation platform near the cathedral offers a panoramic view of Izhevsk.</string>
+    <string name="landmark_3_address">Karl Marx St., 220</string>
+
+    <string name="landmark_4_name">Kalashnikov Museum</string>
+    <string name="landmark_4_short">Museum of the legendary designer with interactive exhibits.</string>
+    <string name="landmark_4_full">The Mikhail Kalashnikov Museum is a unique exhibition complex dedicated to the life and work of the legendary small arms designer. The exposition includes weapon samples, personal belongings, documents, and photographs. An interactive shooting range and multimedia installations make the visit engaging. The museum attracts tourists from all over Russia and abroad.</string>
+    <string name="landmark_4_address">Borodin St., 19</string>
+
+    <string name="landmark_5_name">Presidential Palace</string>
+    <string name="landmark_5_short">A 19th-century architectural monument — the former residence of the weapons factory chief.</string>
+    <string name="landmark_5_full">The Presidential Palace is a 19th-century architectural monument located on the shore of the Izhevsk Pond. The building was constructed as the residence of the Izhevsk Weapons Factory chief and is one of the most beautiful structures in the city. The classical facade with columns and a portico harmoniously fits into the waterfront landscape. Today, the palace houses the residence of the Head of the Udmurt Republic.</string>
+    <string name="landmark_5_address">Militsionnaya St., 6</string>
+
+    <!-- Shopping Malls -->
+    <string name="shopping_1_name">Stolitsa Mall</string>
+    <string name="shopping_1_short">The largest shopping center in Izhevsk with a cinema and food court.</string>
+    <string name="shopping_1_full">Stolitsa is the largest shopping center in Izhevsk, located in the city center. Spread across several floors are over 200 clothing, electronics, home goods, and sporting goods stores. The upper floors house a multi-screen cinema and an extensive food court with cuisines from around the world. Underground parking and a convenient location make Stolitsa the city\'s main shopping destination.</string>
+    <string name="shopping_1_address">Avtozavodskaya St., 2</string>
+
+    <string name="shopping_2_name">Petrovsky Mall</string>
+    <string name="shopping_2_short">Modern shopping center with world brand stores.</string>
+    <string name="shopping_2_full">Petrovsky is a stylish shopping center aimed at shoppers who appreciate quality. It features stores of well-known Russian and international clothing, footwear, and accessories brands. A premium grocery supermarket operates on the ground floor. Cafes and restaurants on the top floor offer a varied menu. The building\'s glass atrium architecture makes shopping pleasant.</string>
+    <string name="shopping_2_address">Pushkinskaya St., 186</string>
+
+    <string name="shopping_3_name">Talisman Mall</string>
+    <string name="shopping_3_short">Family shopping center with a children\'s zone and entertainment.</string>
+    <string name="shopping_3_full">Talisman is the perfect place for family shopping. In addition to numerous stores, it houses a large children\'s entertainment center with trampolines, mazes, and arcade games. While the kids play, parents can browse the stores at their leisure. Beauty salons, a pharmacy, and a bank branch also operate on-site. Regular sales and promotions are held.</string>
+    <string name="shopping_3_address">Udmurtskaya St., 304</string>
+
+    <string name="shopping_4_name">Flagman Mall</string>
+    <string name="shopping_4_short">Shopping center specializing in electronics and technology.</string>
+    <string name="shopping_4_full">Flagman stands out among other Izhevsk shopping centers with its focus on electronics and technology. It houses major appliance stores, computer shops, mobile accessory stores, and service centers. Clothing and footwear stores, sports shops, and a food zone are also available. Convenient navigation and spacious halls make shopping comfortable.</string>
+    <string name="shopping_4_address">Karl Marx St., 272</string>
+
+    <string name="shopping_5_name">Italmas Mall</string>
+    <string name="shopping_5_short">Shopping and entertainment complex with bowling and karaoke.</string>
+    <string name="shopping_5_full">Italmas is a shopping and entertainment complex where shopping meets fun. Named after a heroine of the Udmurt epic, it features three floors of clothing stores, home goods, a pet store, and a bookstore. The entertainment zone includes bowling, karaoke, billiards, and arcade games. Evenings and weekends are always bustling and lively.</string>
+    <string name="shopping_5_address">Lenin St., 138</string>
+</resources>
